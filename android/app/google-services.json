@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "328283960702",
+    "project_id": "catfishsense-4422d",
+    "storage_bucket": "catfishsense-4422d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328283960702:android:912d5b9e5eed1ddd08af2f",
+        "android_client_info": {
+          "package_name": "com.example.catfishsense1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-URzlrTAqHpG4Dk2jQxTImSb_cAYipRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
